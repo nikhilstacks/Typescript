@@ -1,6 +1,6 @@
 // adding new branch main
 var fname:string = 'nikhil'
-
+// this is comment before merging
 let Myself : {
     name: string,
     age: number,
