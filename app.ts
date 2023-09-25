@@ -11,4 +11,4 @@ let Myself : {
 }
 
 
-console.log(`This is the first typescript and my name is ${fname} and this is my data ${Myself}`)
+console.log(`This is the first typescript and my name is ${fname} and this is my designation ${Myself.designation}`)

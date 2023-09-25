@@ -4,4 +4,4 @@ var Myself = {
     age: 22,
     designation: 'Software configuration specialist'
 };
-console.log("This is the first typescript and my name is ".concat(fname, " and this is my data ").concat(Myself));
+console.log("This is the first typescript and my name is ".concat(fname, " and this is my designation ").concat(Myself.designation));
